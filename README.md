@@ -1,5 +1,7 @@
 This project uses Firebase Realtime Database to store and sync data instantly across clients. Any data added is updated in real time without page refresh, demonstrating live read/write functionality using Vite and vanilla JavaScript. Perfect as a beginner-friendly example of real-time databases.
 
+Also accessable in mobile with the help of webmanifest and viewport makes it portable to different devices.
+
 Check it out at:https://savelinks500.netlify.app/
 
 
