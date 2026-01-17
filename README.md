@@ -1,37 +1,7 @@
-🔗 Save Links – Simple URL Saver
+This project uses Firebase Realtime Database to store and sync data instantly across clients. Any data added is updated in real time without page refresh, demonstrating live read/write functionality using Vite and vanilla JavaScript. Perfect as a beginner-friendly example of real-time databases.
 
-Save Links is a lightweight web app that helps you quickly save, view, and manage important URLs in one place. It uses JavaScript, HTML, CSS, and Firebase Realtime Database for storing links securely in the cloud.
+Check it out at:https://savelinks500.netlify.app/
 
-✨ Features
 
-Save links instantly with one click
-
-Persistent storage using Firebase Realtime Database
-
-Clean and minimal UI
-
-Delete all saved links easily
-
-Works directly in the browser
-
-🛠️ Tech Stack
-
-HTML
-
-CSS
-
-JavaScript (ES6)
-
-Firebase Realtime Database
-
-🚀 How to Run
-
-Clone the repository
-
-Open index.html in your browser
-
-Add your Firebase databaseURL in the config
-
-📌 Use Case
-
-Perfect for bookmarking useful links, resources, or references without relying on browser bookmarks.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a38d35d1-31c1-4a1c-82e3-7ea58210027d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ca1be0b-72e8-4013-a601-bb557b5b2142" />
